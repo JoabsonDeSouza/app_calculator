@@ -1,7 +1,7 @@
 # App Calculator
 App calculator é um projeto feito com intuito educativo.
 
-<img align="center" alt="GIF" src="/assets/project.gif" width="100%" />
+<img align="center" alt="GIF" src="/assets/project.gif" width="20%" />
 
 <br />
 
